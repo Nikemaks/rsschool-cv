@@ -6,7 +6,7 @@
 * Telegram: https://t.me/Alexander_V_I
 * E-mail: IvanchenkoAV@ukr.net
 * Discord: Alexander Ivanchenko@Alexander46
-* Site: https://tangerine-cajeta-eb961d.netlify.app/
+* Site: (https://tangerine-cajeta-eb961d.netlify.app/)
 * [GitHub](https://github.com/AlexanderVI46)
 * [LinkedIn](https://www.linkedin.com/in/alexander-ivanchenko-691502163/)
 * [HackerRank](https://www.hackerrank.com/IvanchenkoAV)
