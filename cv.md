@@ -68,3 +68,11 @@ print('coefficient of determination:', r_sq)
 * Russian - Native
 * English - Intermediate
 
+---
+
+### Current positions
+* 2019, Sep. – Now	Associate Professor, Department of Applied Radiophysics, Electronics and Nanomaterials, Faculty of Physics, Electronics and Computer Systems, Oles Honchar Dnipro National University
+* 2014, Jan. – 2019, Sep.	Associate Professor, Department of Radio Electronics, Faculty of Physics, Electronics and Computer Systems, Oles Honchar Dnipropetrovsk National University
+* 2013, Sep. – 2014, Jan.	Senior Lecturer, Department of Radio Electronics, Faculty of Physics, Electronics and Computer Systems, Oles Honchar Dnipropetrovsk National University
+* 2001, Sep. – 2013, Sep.	Lecturer of Department of Computer Science and Applied Mathematics, Faculty of Technology of Macromolecular Compounds, State Higher Educational Institution "Ukrainian State University of Chemical Technology"
+
